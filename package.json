@@ -1,0 +1,23 @@
+{
+  "name": "bowlinggamekata",
+  "version": "1.0.0",
+  "description": "Test driven development used to complete a bowling game in the console.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobidesigns/bowlingGameKata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobidesigns/bowlingGameKata/issues"
+  },
+  "homepage": "https://github.com/tobidesigns/bowlingGameKata#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
